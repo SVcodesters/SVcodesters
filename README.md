@@ -18,10 +18,11 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/shubhamvaity8">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubhamvaity&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamvaity&layout=compact&langs_count=10&theme=algolia"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvaity&&theme=algolia" alt="shubhamvaity" />
 </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvaity&&theme=algolia" alt="shubhamvaity" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvaity&&theme=algolia" alt="shubhamvaity" />
 
 
 
