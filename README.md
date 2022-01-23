@@ -22,9 +22,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvaity&&theme=algolia" alt="shubhamvaity" />
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
