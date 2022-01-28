@@ -15,17 +15,17 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-<a href="https://github.com/shubhamvaity8">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shubhamvaity&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shubhamvaity&layout=compact&langs_count=10&theme=algolia"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamvaity&&theme=algolia" alt="shubhamvaity" />
+<a href="https://github.com/svcodesters">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=svcodesters&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svcodesters&layout=compact&langs_count=10&theme=algolia"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=svcodesters&&theme=algolia" alt="svcodesters" />
 </a>
 </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-vaity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-vaity" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/svcodesters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/svcodesters" height="30" width="40" /></a>
 <a href="https://fb.com/dhhdd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhhdd" height="30" width="40" /></a>
 <a href="https://instagram.com/asasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asasa" height="30" width="40" /></a>
 <a href="https://hashnode.com/assasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="assasa" height="30" width="40" /></a>
@@ -51,4 +51,4 @@ You can click the Preview link to take a look at your changes.
 🎓 Computer Engineer from University of Mumbai
 
 visit [svcodesters.github.io](https://svcodesters.github.io) for more info!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamvaity&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamvaity" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=svcodesters&label=Profile%20views&color=0e75b6&style=flat" alt="svcodesters" /> </p>
